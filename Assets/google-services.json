@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474477956532",
+    "firebase_url": "https://inspirapp-fbbc0-default-rtdb.firebaseio.com",
+    "project_id": "inspirapp-fbbc0",
+    "storage_bucket": "inspirapp-fbbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474477956532:android:0aa100b0b88e447cb236e1",
+        "android_client_info": {
+          "package_name": "com.javerianacali.inspirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474477956532-ol3ggfg4j4uh4o4pr6nsoou6310fblo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javerianacali.inspirapp",
+            "certificate_hash": "801d10399a12f8b9098d7bcf908abb73fd789e9c"
+          }
+        },
+        {
+          "client_id": "474477956532-bmjaeot37abt6g655ips3k1g17ishob9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLcRm46FoK_I113OIE-Qmv46Il7ueLkiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474477956532-bmjaeot37abt6g655ips3k1g17ishob9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
